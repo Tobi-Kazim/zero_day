@@ -1,3 +1,3 @@
-This is my first read me with docker
+This is the first readme file using docker on my local machine
 
-This is a dream come true
+
